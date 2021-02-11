@@ -1,0 +1,109 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Muhamad irwan",
+          "alamat": "Jakarta",
+          "umur": 36,
+          "nohp": "082211174447"
+        },
+        {
+          "id": 2,
+          "nama": "Asko",
+          "alamat": "Brebes",
+          "umur": 30,
+          "nohp": "0896498254575"
+        },
+        {
+          "id": 3,
+          "nama": "Aldo",
+          "alamat": "Serpong",
+          "umur": 25,
+          "nohp": "089557561462"
+        },
+        {
+          "id": 4,
+          "nama": "sari",
+          "alamat": "Depok",
+          "umur": 20,
+          "nohp": "08445345455"
+        },
+        {
+          "id": 5,
+          "nama": "faiq",
+          "alamat": "Cibubur",
+          "umur": 27,
+          "nohp": "0895577661462"
+        },
+        {
+          "id": 6,
+          "nama": "Rudi",
+          "alamat": "Bogor",
+          "umur": 25,
+          "nohp": "0895577661462"
+        },
+        {
+          "id": 7,
+          "nama": "Dido",
+          "alamat": "Cimahi",
+          "umur": 29,
+          "nohp": "0895577661462"
+        },
+        {
+          "id": 8,
+          "nama": "Galuh",
+          "alamat": "Banjarmasin",
+          "umur": 38,
+          "nohp": "089547642462"
+        },
+        {
+          "id": 9,
+          "nama": "Quyly",
+          "alamat": "Pamulang",
+          "umur": 33,
+          "nohp": "089578676612"
+        },
+        {
+          "id": 10,
+          "nama": "Kiki",
+          "alamat": "Beji",
+          "umur": 29,
+          "nohp": "08959845776462"
+        },
+        {
+          "id": 11,
+          "nama": "Kiki",
+          "alamat": "Samarinda",
+          "umur": 29,
+          "nohp": "08959845776462"
+        },
+        {
+          "id": 12,
+          "nama": "Pari",
+          "alamat": "Bogor",
+          "umur": 31,
+          "nohp": "08959845776462"
+        },
+        {
+          "id": 13,
+          "nama": "Kiki",
+          "alamat": "Padang",
+          "umur": 35,
+          "nohp": "0895785576462"
+        },
+        {
+          "id": 14,
+          "nama": "IPul",
+          "alamat": "Subang",
+          "umur": 24,
+          "nohp": "08959865776462"
+        },
+        {
+          "id": 15,
+          "nama": "Ruidi",
+          "alamat": "Pontianak",
+          "umur": 29,
+          "nohp": "0898655776462"
+        }
+      ]
+}
